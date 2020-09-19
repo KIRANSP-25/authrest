@@ -1,0 +1,4 @@
+{
+    "db_uri": "mongodb+srv://Sansam:sanjay13041999@cluster0-gog5s.mongodb.net/DBAuthk?authSource=admin&replicaSet=Cluster0-shard-0&readPreference=primary&appname=MongoDB%20Compass&ssl=true",
+    "secret": "bepractical@2020"
+}
